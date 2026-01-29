@@ -1,7 +1,0 @@
-name: bi_dashboard_environment
-channels:
-  - snowflake
-dependencies:
-  - streamlit
-  - snowflake-snowpark-python
-  - plotly
